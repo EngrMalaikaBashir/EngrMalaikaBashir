@@ -16,11 +16,6 @@ Email Me 👉 ✉️ **malaikabashir65@gmail.com** For Collaboration/Project or 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/malaika-bashir-a44b97363/ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malaikabashir65@gmail.com) 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 
 # 💻 Tech Stack:
@@ -29,6 +24,13 @@ Email Me 👉 ✉️ **malaikabashir65@gmail.com** For Collaboration/Project or 
 ![](https://github-readme-stats.shion.dev/api?username=EngrMalaikaBashir&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=EngrMalaikaBashir&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=EngrMalaikaBashir&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=EngrMalaikaBashir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
