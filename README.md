@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **malaikabashir65@gmail.com** For Collaboration/Project or 
 * 👯 **I’m looking to collaborate on:** Open-source projects, web applications and UI/UX projects
 * 🤔 **I’m looking for help with:** Improving my development skills and exploring advanced technologies
 * 💬 **Ask me about:** HTML, CSS, JavaScript, React.js, Flutter & Frontend Development
-* 📫 **How to reach me:** Add your email here
+* 📫 **How to reach me:** malaikabashir65@gmail.com
 * 😄 **Pronouns:** She/Her
 * ⚡ **Fun fact:** I love coding, learning new technologies and turning ideas into real projects 🚀
 
