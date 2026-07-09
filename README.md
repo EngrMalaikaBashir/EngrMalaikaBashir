@@ -3,7 +3,7 @@
 HTML | CSS | JavaScript | React.js | Flutter
 Creating clean, responsive and user-friendly digital experiences**
 
-Email Me 👉 ✉️ **malaikabashir65@gmail.com** For Collaboration/Project. 😊😊
+Email Me 👉 ✉️ **malaikabashir65@gmail.com** For Collaboration/Project. 
 
 * 🔭 **I’m currently working on:** Frontend projects and building responsive web applications
 * 🌱 **I’m currently learning:** React.js, Flutter, Tailwind CSS and modern web technologies
